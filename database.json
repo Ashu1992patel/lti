@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "ashu1992patel@gmail.com",
+      "username": "ashu1992patel",
+      "password": "Pasword@123"
+    },
+    {
+      "id": 2,
+      "email": "ashu1992patel1@gmail.com",
+      "username": "ashu1992patel2",
+      "password": "Pasword@1232"
+    },
+    {
+      "id": 3,
+      "email": "ashu1992patel1@gmail.com",
+      "username": "ashu1992patel4",
+      "password": "Pasword@1234"
+    },
+    {
+      "email": "ashish@gmail.com",
+      "password": "Pass123@",
+      "id": 4
+    },
+    {
+      "email": "ashish@gmail.com",
+      "password": "Pass123@",
+      "id": 5
+    },
+    {
+      "email": "ashish@gmail.com",
+      "password": "Pass123@",
+      "id": 6
+    },
+    {
+      "email": "ashish@gmail.com",
+      "password": "password@123",
+      "id": 7
+    }
+  ],
+  "events": [
+    {
+      "name": "Event 1",
+      "date": "20-03-2023",
+      "description": "Nisi consequat non eiusmod Lorem occaecat ut in aute veniam et. Mollit ullamco elit tempor id aute dolore. Qui aliqua cupidatat fugiat officia. Eiusmod exercitation ipsum pariatur nulla qui dolore incididunt qui esse nisi sit minim. Esse quis esse do duis elit Lorem ullamco. Do nisi esse qui pariatur occaecat dolor.Sit nisi deserunt aliquip duis laboris esse laboris voluptate do cillum proident mollit commodo. Enim do eiusmod Lorem laboris sint non excepteur excepteur laborum nulla voluptate minim anim enim. Labore reprehenderit reprehenderit eu occaecat aute sint proident.",
+      "price": "2000.00",
+      "isPremium": true,
+      "tnc": true
+    },
+    {
+      "name": "Event 2",
+      "date": "21-03-2023",
+      "description": "Dolore proident do elit ad quis labore aliqua proident Lorem irure do. Mollit voluptate aliquip exercitation reprehenderit. Sint cupidatat laboris consectetur incididunt exercitation est dolore velit elit ipsum aliquip excepteur aute do. Nostrud mollit labore amet veniam dolor ipsum Lorem commodo.",
+      "price": "3000.00",
+      "isPremium": true,
+      "tnc": false
+    },
+    {
+      "name": "Event 3",
+      "date": "23-03-2023",
+      "description": "Officia enim labore ipsum ex nostrud aute id nostrud irure sit laborum cupidatat. Ut cupidatat ipsum nostrud incididunt velit enim Lorem ut cupidatat in consequat nulla. Commodo deserunt eu consectetur quis ut aliquip esse dolore dolor occaecat. Velit sunt incididunt excepteur do veniam ea. Veniam pariatur et officia ex aliqua qui. Ut eu voluptate dolor laboris id cillum occaecat qui. Nulla sit eiusmod eiusmod dolore voluptate fugiat.Non sit dolore excepteur eu est in id dolore pariatur et eiusmod irure amet magna. Magna ex sunt consectetur sunt officia Lorem aliqua velit ipsum incididunt labore qui reprehenderit. Anim ullamco nostrud aute in. Ex tempor proident cillum laboris fugiat. Cupidatat commodo do ullamco excepteur fugiat anim sit.",
+      "price": "4000.00",
+      "isPremium": false,
+      "tnc": true
+    }
+  ]
+}
